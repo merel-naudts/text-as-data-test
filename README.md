@@ -1,2 +1,2 @@
 # text-as-data-test
-Test repo
+This is a test repo.
